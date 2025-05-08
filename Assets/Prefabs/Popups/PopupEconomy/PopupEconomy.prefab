@@ -246,13 +246,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 68.2
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -760,13 +760,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 48.35
+  m_fontSize: 38
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 48.35
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -895,13 +895,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 48.35
+  m_fontSize: 35.35
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 48.35
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -1883,7 +1883,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 58.15
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -2367,7 +2367,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 58.15
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -2710,7 +2710,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 4278296576920498412}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.11885227
+  m_Size: 0.11885226
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2808,13 +2808,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 48.35
+  m_fontSize: 42.95
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 48.35
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -3096,13 +3096,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 48.35
+  m_fontSize: 42.95
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 48.35
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -3453,13 +3453,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 58.15
+  m_fontSize: 52.3
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 58.15
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -3539,9 +3539,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 51.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1875313836290469659, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3408132975689449687, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_Name
@@ -3645,9 +3661,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 51.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1875313836290469659, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3408132975689449687, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_Name
@@ -3751,6 +3783,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1568356977892415201, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Name
       value: Mine (2)
@@ -3758,6 +3798,10 @@ PrefabInstance:
     - target: {fileID: 2344547198428805421, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3020865735149499100, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7106381142924709296, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Pivot.x
@@ -3857,9 +3901,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 869526014852479345, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_Name
       value: Herbalist (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476361581427318092, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4132967796911511229, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -4051,9 +4107,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alchemist (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8521894928059720924, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9162043930549923629, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
@@ -4069,6 +4137,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 55.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 998583022977139148, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
@@ -4076,6 +4152,14 @@ PrefabInstance:
     - target: {fileID: 4076251249379241472, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Name
       value: Sawmill (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5750185543564162385, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Pivot.x
@@ -4179,9 +4263,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weaving (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2862846675480813434, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377448769526256779, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7326707181347318759, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_Pivot.x
@@ -4281,6 +4377,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 55.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 998583022977139148, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
@@ -4288,6 +4392,14 @@ PrefabInstance:
     - target: {fileID: 4076251249379241472, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Name
       value: Sawmill
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5750185543564162385, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Pivot.x
@@ -4387,6 +4499,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 55.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 998583022977139148, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
@@ -4394,6 +4514,14 @@ PrefabInstance:
     - target: {fileID: 4076251249379241472, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Name
       value: Sawmill (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5750185543564162385, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Pivot.x
@@ -4581,9 +4709,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alchemist
       objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8521894928059720924, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9162043930549923629, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
@@ -4599,9 +4739,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 51.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1875313836290469659, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3408132975689449687, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_Name
@@ -4793,9 +4949,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alchemist (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8521894928059720924, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9162043930549923629, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
@@ -4811,6 +4979,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 55.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 998583022977139148, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
@@ -4818,6 +4994,14 @@ PrefabInstance:
     - target: {fileID: 4076251249379241472, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Name
       value: Sawmill (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5750185543564162385, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Pivot.x
@@ -4917,9 +5101,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 869526014852479345, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_Name
       value: Herbalist (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476361581427318092, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4132967796911511229, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -5111,9 +5307,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alchemist (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8521894928059720924, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9162043930549923629, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
@@ -5129,9 +5337,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 869526014852479345, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_Name
       value: Herbalist
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476361581427318092, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4132967796911511229, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -5235,9 +5455,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 51.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1875313836290469659, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3408132975689449687, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_Name
@@ -5341,6 +5577,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 55.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 998583022977139148, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
@@ -5348,6 +5592,14 @@ PrefabInstance:
     - target: {fileID: 4076251249379241472, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Name
       value: Sawmill (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5750185543564162385, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Pivot.x
@@ -5451,9 +5703,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weaving (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2862846675480813434, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377448769526256779, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7326707181347318759, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_Pivot.x
@@ -5557,9 +5821,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weaving
       objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2862846675480813434, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377448769526256779, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7326707181347318759, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_Pivot.x
@@ -5663,9 +5939,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weaving (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2862846675480813434, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377448769526256779, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7326707181347318759, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_Pivot.x
@@ -5765,9 +6053,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 869526014852479345, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_Name
       value: Herbalist (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476361581427318092, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4132967796911511229, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -5871,9 +6171,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 51.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1875313836290469659, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3408132975689449687, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_Name
@@ -5977,9 +6293,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 51.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1875313836290469659, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3408132975689449687, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_Name
@@ -6171,9 +6503,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alchemist (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8521894928059720924, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9162043930549923629, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
@@ -6277,9 +6621,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alchemist (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8521894928059720924, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9162043930549923629, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
@@ -6295,6 +6651,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1568356977892415201, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Name
       value: Mine (1)
@@ -6302,6 +6666,10 @@ PrefabInstance:
     - target: {fileID: 2344547198428805421, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3020865735149499100, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7106381142924709296, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Pivot.x
@@ -6401,9 +6769,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 869526014852479345, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_Name
       value: Herbalist (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476361581427318092, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4132967796911511229, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -6507,9 +6887,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 869526014852479345, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_Name
       value: Herbalist (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476361581427318092, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4132967796911511229, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -6617,9 +7009,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weaving (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2862846675480813434, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377448769526256779, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7326707181347318759, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_Pivot.x
@@ -6719,6 +7123,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1568356977892415201, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Name
       value: Mine (5)
@@ -6726,6 +7138,10 @@ PrefabInstance:
     - target: {fileID: 2344547198428805421, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3020865735149499100, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7106381142924709296, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Pivot.x
@@ -6825,6 +7241,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 55.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 998583022977139148, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
@@ -6832,6 +7256,14 @@ PrefabInstance:
     - target: {fileID: 4076251249379241472, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Name
       value: Sawmill (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5750185543564162385, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Pivot.x
@@ -6931,9 +7363,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 51.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1875313836290469659, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3408132975689449687, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_Name
@@ -7041,9 +7489,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weaving (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2862846675480813434, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377448769526256779, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7326707181347318759, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_Pivot.x
@@ -7143,9 +7603,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 51.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1875313836290469659, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3408132975689449687, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_Name
@@ -7249,6 +7725,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1568356977892415201, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Name
       value: Mine (4)
@@ -7256,6 +7740,10 @@ PrefabInstance:
     - target: {fileID: 2344547198428805421, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3020865735149499100, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7106381142924709296, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Pivot.x
@@ -7359,9 +7847,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weaving (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2862846675480813434, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377448769526256779, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7326707181347318759, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_Pivot.x
@@ -7461,6 +7961,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 55.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 998583022977139148, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
@@ -7468,6 +7976,14 @@ PrefabInstance:
     - target: {fileID: 4076251249379241472, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Name
       value: Sawmill (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5750185543564162385, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Pivot.x
@@ -7567,6 +8083,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 55.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 341826994730273341, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 998583022977139148, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
@@ -7574,6 +8098,14 @@ PrefabInstance:
     - target: {fileID: 4076251249379241472, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Name
       value: Sawmill (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604771896891906963, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5750185543564162385, guid: 4226c4e427dd4af47bb188dd4adaca9e, type: 3}
       propertyPath: m_Pivot.x
@@ -7673,6 +8205,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1568356977892415201, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Name
       value: Mine (3)
@@ -7680,6 +8220,10 @@ PrefabInstance:
     - target: {fileID: 2344547198428805421, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3020865735149499100, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7106381142924709296, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Pivot.x
@@ -7779,6 +8323,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1568356977892415201, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Name
       value: Mine (6)
@@ -7786,6 +8338,10 @@ PrefabInstance:
     - target: {fileID: 2344547198428805421, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3020865735149499100, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7106381142924709296, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Pivot.x
@@ -7885,9 +8441,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 869526014852479345, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_Name
       value: Herbalist (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476361581427318092, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4132967796911511229, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -8079,9 +8647,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alchemist (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8521894928059720924, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9162043930549923629, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
@@ -8097,9 +8677,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 869526014852479345, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_Name
       value: Herbalist (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476361581427318092, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4132967796911511229, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -8291,9 +8883,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alchemist (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4935690217014935171, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8521894928059720924, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9162043930549923629, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0bcac61142291d48a89d70da9a4556e, type: 3}
@@ -8309,9 +8913,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 51.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1397162479007016170, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1875313836290469659, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898824666029208900, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3408132975689449687, guid: db6ca3e7b28303a4f9f3c1d674669583, type: 3}
       propertyPath: m_Name
@@ -8415,6 +9035,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1568356977892415201, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Name
       value: Mine (7)
@@ -8422,6 +9050,10 @@ PrefabInstance:
     - target: {fileID: 2344547198428805421, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3020865735149499100, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7106381142924709296, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Pivot.x
@@ -8525,9 +9157,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weaving (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550959769748587813, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2862846675480813434, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377448769526256779, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7326707181347318759, guid: a44c219e07afa654ebc7dc600bdbd015, type: 3}
       propertyPath: m_Pivot.x
@@ -8627,6 +9271,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348057408387425138, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1568356977892415201, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Name
       value: Mine
@@ -8634,6 +9286,10 @@ PrefabInstance:
     - target: {fileID: 2344547198428805421, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3020865735149499100, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7106381142924709296, guid: 9d90f0c9616b32949a59ef9161574057, type: 3}
       propertyPath: m_Pivot.x
@@ -8733,9 +9389,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4056082665432865414}
     m_Modifications:
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontSize
+      value: 38.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 821768406443379938, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 869526014852479345, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_Name
       value: Herbalist (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476361581427318092, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4132967796911511229, guid: 972add4623f0b1240b9057e720026d4e, type: 3}
       propertyPath: m_AnchoredPosition.x
